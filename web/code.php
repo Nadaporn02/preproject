@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>รายงานในแบบกราฟ by devbanban.com</title>
+    <title>รายงานในแบบกราฟ </title>
 </head>
 <?php
 $con= mysqli_connect("localhost","root","","test") or die("Error: " . mysqli_error($con)); 
