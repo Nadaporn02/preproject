@@ -1,0 +1,22 @@
+#count{
+    border-radius: 50%;
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
+.badge {
+    background-color: rgba(252, 40, 40, 0.747);
+    
+
+}
+.dropdown{
+    margin-right: 0px;
+    padding: 0;
+}
+.list-group-item.active{
+  background-color: #1b1b1b !important;
+
+}
+.background{
+    background-color: yellow;
+}
